@@ -1,17 +1,25 @@
 ✨ Features
 
 🔍 Search weather by city name
+
 🌤 Displays temperature, condition, humidity, and wind speed
+
 🖼 Weather icons dynamically fetched
+
 🎨 Clean and responsive UI design
+
 🎞️ Smooth animations and interactions
+
 ❗ Handles errors gracefully (e.g. city not found, empty input)
 
 
 🔧 Technologies Used
 HTML5
+
 CSS3 (modern glassmorphism + animations)
+
 JavaScript (ES6+)
+
 WeatherAPI – Free weather data API
 
 
